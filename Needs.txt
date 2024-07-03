@@ -1,0 +1,7 @@
+1. Train our Model
+2. Create Web App using Flask Framework
+3. Commit the code in the GitHub
+4.Create an account in Heroku (PAAS)
+5. Link the GitHub HEROKU
+6. Deploy the model
+7. Your web is ready
